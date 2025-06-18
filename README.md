@@ -1,5 +1,4 @@
-# 💫About Me :
-
+ABOUT Machine Learning for beginner : 
 ## What is Machine Learning?
 
 Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables computers to learn and make predictions or decisions from data without being explicitly programmed for each specific task. Instead of writing detailed code, we provide data so computers can discover patterns and rules on their own.
