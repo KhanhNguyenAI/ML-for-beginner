@@ -1,4 +1,9 @@
 ABOUT Machine Learning for beginner : 
+
+![RoboticMachineGIF](https://github.com/user-attachments/assets/3f556dad-2e4f-42c1-8c94-e2727999db38)
+![ArtificialIntelligenceMachineLearningGIF](https://github.com/user-attachments/assets/8f270b16-8887-4a41-a892-3f2fd125523b)
+
+
 ## What is Machine Learning?
 
 Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables computers to learn and make predictions or decisions from data without being explicitly programmed for each specific task. Instead of writing detailed code, we provide data so computers can discover patterns and rules on their own.
