@@ -1,0 +1,27 @@
+
+https://www.nvidia.com/en-us/glossary/recommendation-system/
+
+
+collaborative filtering algorithms recommend items : 
+-> dựa vào người sự phù hợp giữa các người dùng
+EX : 
+-> 1 số bộ phim được xem bởi người khác
+sẽ có xu hướng có cùng sở thích cho những bộ phim tiếp theo
+
+content filtering - content based fitering
+-> giữa trên items (bộ phim) có thể là thể loại
+dựa trên thể loại giống nhau đưa ra nhựng gợi ý tương tự 
+
+===> hybrid system = collaborative filtering + content-based filtering
+sử dụng khi dự liệu bị cold start (không có old data)
+
+
+context fitering - contextial sequence data
+-> thường dựa trên ngữ cảnh (date-time-country-device) 
+đang sử dụng / đã sự dụng trong quá khứ 
+để lọc ra nội dung phù hợp 
+
+“Complete the look” or “You might also like” : 
+khi một người đã mua 1 chiếc áo
+cần gợi ý những phụ kiện đi kèm để hoàn hảo hơn 
+
